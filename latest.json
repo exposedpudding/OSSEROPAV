@@ -1,0 +1,8 @@
+{
+  "versionCode": 19,
+  "versionName": "0.4.9",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.4.9/iPadRepairPilot.apk",
+  "sha256": "21632a1335d5ac0a55de627b61279bd246ae02afcf9e400fb7795fe0bb38ea81",
+  "notes": "Adds public update checks and a red pulsing notice when a scanned serial has no inventory match.",
+  "publishedAt": "2026-10-02T01:40:41+00:00"
+}
