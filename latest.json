@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.5.4",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.4/iPadRepairPilot.apk",
-  "sha256": "e70dd392afb0fd97d1048a96eed3b253a45523043c5c3cbcf1ed041cbf30e611",
-  "notes": "Restore school Firebase settings and display installed app version",
-  "publishedAt": "2026-10-02T08:04:58+00:00"
+  "versionCode": 25,
+  "versionName": "0.5.5",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.5/iPadRepairPilot.apk",
+  "sha256": "4c4a5c306f62c5f3ba336a7d87ef796042bc8c4b4268ef27f3176ec5f94a04cd",
+  "notes": "Adds repair log emails for the importable Outlook to SharePoint flow. Direct SharePoint logging remains optional.",
+  "publishedAt": "2026-10-02T10:29:38+00:00"
 }
