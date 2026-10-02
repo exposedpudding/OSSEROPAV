@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.5.6",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.6/iPadRepairPilot.apk",
-  "sha256": "b598b360c66faed5bcf1163ae3c06721b92bbe2252b951550a33084d138ffaa7",
-  "notes": "Adds SharePoint flow email logging and assigns a fresh incident ID after each confirmed form submission.",
-  "publishedAt": "2026-10-02T10:35:34+00:00"
+  "versionCode": 27,
+  "versionName": "0.5.7",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.7/iPadRepairPilot.apk",
+  "sha256": "06590e7f23bb37950890a0fde7784cc6c466e6a7b306cd3b26e7162f9f97a90a",
+  "notes": "Updates the Android launcher tile to the burgundy, gold and white iRepair artwork.",
+  "publishedAt": "2026-10-02T11:20:23+00:00"
 }
