@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.5.3",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.3/iPadRepairPilot.apk",
-  "sha256": "d8b64d3eac88edd08b2e65cdd693a2094c0ed51f4db8104c5a3e3e84b6194fbe",
-  "notes": "Fix previously saved invalid Firebase API key and token setup",
-  "publishedAt": "2026-10-02T07:46:27+00:00"
+  "versionCode": 24,
+  "versionName": "0.5.4",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.4/iPadRepairPilot.apk",
+  "sha256": "e70dd392afb0fd97d1048a96eed3b253a45523043c5c3cbcf1ed041cbf30e611",
+  "notes": "Restore school Firebase settings and display installed app version",
+  "publishedAt": "2026-10-02T08:04:58+00:00"
 }
