@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.5.7",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.7/iPadRepairPilot.apk",
-  "sha256": "06590e7f23bb37950890a0fde7784cc6c466e6a7b306cd3b26e7162f9f97a90a",
-  "notes": "Updates the Android launcher tile to the burgundy, gold and white iRepair artwork.",
-  "publishedAt": "2026-10-02T11:20:23+00:00"
+  "versionCode": 28,
+  "versionName": "0.5.8",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.8/iPadRepairPilot.apk",
+  "sha256": "29ee6020ee21a594e029bd73a41d290eca283b659d070d1e34fbf4c45a2d5d9a",
+  "notes": "Private JamFeed inventory snapshot with encrypted cache and CSV fallback",
+  "publishedAt": "2026-10-02T12:09:57+00:00"
 }
