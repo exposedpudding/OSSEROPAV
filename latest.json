@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.5.5",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.5/iPadRepairPilot.apk",
-  "sha256": "4c4a5c306f62c5f3ba336a7d87ef796042bc8c4b4268ef27f3176ec5f94a04cd",
-  "notes": "Adds repair log emails for the importable Outlook to SharePoint flow. Direct SharePoint logging remains optional.",
-  "publishedAt": "2026-10-02T10:29:38+00:00"
+  "versionCode": 26,
+  "versionName": "0.5.6",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.6/iPadRepairPilot.apk",
+  "sha256": "b598b360c66faed5bcf1163ae3c06721b92bbe2252b951550a33084d138ffaa7",
+  "notes": "Adds SharePoint flow email logging and assigns a fresh incident ID after each confirmed form submission.",
+  "publishedAt": "2026-10-02T10:35:34+00:00"
 }
