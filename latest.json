@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.5.1",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.1/iPadRepairPilot.apk",
-  "sha256": "a8585243a1a16d0596ebdce4af6df67acf15ebe0861979d715f3d6334c503918",
-  "notes": "Longer glowing splash, selected-device shake, inventory source badge and optional free push notices",
-  "publishedAt": "2026-10-02T02:55:51+00:00"
+  "versionCode": 22,
+  "versionName": "0.5.2",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.2/iPadRepairPilot.apk",
+  "sha256": "43f3dae8689d4153032bebe799e528386a55ccce513e8b1f50933cfcf64a635f",
+  "notes": "Firebase Android client prefilled for optional push setup",
+  "publishedAt": "2026-10-02T06:37:46+00:00"
 }
