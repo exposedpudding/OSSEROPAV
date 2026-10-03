@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.5.9",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.9/iPadRepairPilot.apk",
-  "sha256": "c24d440cb7c22647e629981b47bd39884acd2c97b18dbf52286e24bebd1e2edf",
-  "notes": "Automatic private JamFeed checks on app open and return; daily validated Jamf sync",
-  "publishedAt": "2026-10-02T18:02:23+00:00"
+  "versionCode": 30,
+  "versionName": "0.5.10",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.10/iPadRepairPilot.apk",
+  "sha256": "91a48cdbbffe842f8affbc9c6ab9183562af977817bad49da623ef4c75854c44",
+  "notes": "JamFeed change alerts and sync failure warning; softer device selection",
+  "publishedAt": "2026-10-03T11:47:23+00:00"
 }
