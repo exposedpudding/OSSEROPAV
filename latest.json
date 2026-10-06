@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.5.10",
-  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.10/iPadRepairPilot.apk",
-  "sha256": "91a48cdbbffe842f8affbc9c6ab9183562af977817bad49da623ef4c75854c44",
-  "notes": "JamFeed change alerts and sync failure warning; softer device selection",
-  "publishedAt": "2026-10-03T11:47:23+00:00"
+  "versionCode": 31,
+  "versionName": "0.5.11",
+  "apkUrl": "https://github.com/exposedpudding/OSSEROPAV/releases/download/v0.5.11/iPadRepairPilot.apk",
+  "sha256": "c0fc6f9f7f16ab45b64e65a0d37f7dc8b688feab19fd543373b4a3ee0a833a45",
+  "notes": "Repair, Return Repair and Search menu with shared Excel tracker handoff",
+  "publishedAt": "2026-10-06T14:40:45+00:00"
 }
